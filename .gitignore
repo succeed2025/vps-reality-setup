@@ -1,0 +1,12 @@
+# 绝不提交任何节点信息 / 密钥
+*link*.txt
+*client-info*.txt
+*.key
+*.pem
+*.ppk
+id_*
+!id_*.md
+*_ed25519*
+*_rsa*
+.env
+config.local.json
